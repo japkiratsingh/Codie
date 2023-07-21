@@ -1,3 +1,5 @@
+![Codie](https://github.com/japkiratsingh/Codie/assets/80908363/01507290-e2e8-492a-8cfa-124c36dbcb07)
+
 # Codie - AI Chatbot
 An AI powered chatbot that is intended to help you with your Software Interview Preparation and doubts related to coding problems. Codie runs on the GPT-3 model created by OpenAI, and is programmed specifically for this use case.  
 
